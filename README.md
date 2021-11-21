@@ -24,4 +24,4 @@ yourmap
 
 ## Saída para o código acima:
 
-![Imagem de Saída.](imgs/mapEX.png)
+![Imagem de Saída.](https://github.com/emanuel07mii/yourmap/blob/master/imgs/mapEX.png)
