@@ -24,4 +24,4 @@ yourmap
 
 ## Saída para o código acima:
 
-![Imagem de Saida.](https://github.com/emanuel07mii/yourmap/blob/master/imgs/mapEX.png)
+![Imagem de Saida.](https://raw.githubusercontent.com/emanuel07mii/yourmap/master/imgs/mapEX.png)
